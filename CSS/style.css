@@ -16,6 +16,11 @@ h2 {
     font-style: italic;
     color: white;
 }
+p { 
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+} 
 html { 
     background-repeat: no-repeat;
     background: radial-gradient(#000, #8c0069);
