@@ -1,0 +1,41 @@
+img {
+    border-radius: 250px;
+    height: 500px;
+    width: 500px;
+}
+
+h1 { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+}
+html { 
+    background-repeat: no-repeat;
+    background: radial-gradient(#000, #8c0069);
+}
+body { 
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 40px;
+    font-size: 40px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    text-shadow: #00c;
+}
